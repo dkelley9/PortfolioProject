@@ -1,0 +1,67 @@
+/* You can add custom CSS and extend Boostrap styles in this file. Remember, Bootstrap is just CSS at the end of the day! */
+h1, h2{
+	font-family: 'Lobster Two', cursive;
+	text-align: center;
+	color: #839788'
+}
+body {
+	background-color: #839788;
+	color: #ffffff;
+	text-align:center;
+	padding: 5px;
+ /* background-image: url("img/bghero.jpg");*/
+  
+}
+#hero-section{
+  background-image: url("img/clevelandbgimg.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a {
+	font-weight: bold;
+	color:#839788;
+}
+		 
+/* designing title and tag line */
+.hspic {
+  margin-top: 10vw;
+	color: white;
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+h1, p {
+	padding: 10px 50px;
+	position: relative;
+	border-radius: 10px;
+  text-align: center;
+}
+#mission-section, #skills-section, #contact-section, {
+  background-color: #839788;
+}
+a:hover {
+	color: #bfd7ea;
+}
+div {
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+dl {
+	display: center;
+}
+dt {
+	padding: 5px;
+}
+img > col {
+  align-content: center;
+}
+#footer-section{
+  background-color: #ffffff;
+  color: #839788;
+}
+hr {
+  padding: 15px;
+}
